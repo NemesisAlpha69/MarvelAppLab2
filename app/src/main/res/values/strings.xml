@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MavelApp</string>
+    <string name="main.button.submit">Ver super Heroe</string>
+    <string name="main.hint.bill">Nombre Superheroe</string>
+    <string name="main.hint.percentage"></string>
+    <string name="main.button.increase">+</string>
+    <string name="main.button.decrease">-</string>
+    <string name="main.button.clear">Borrar</string>
+    <string name="main.notice.clear">Elementos</string>
+    <string name="main.menu.action.about">Acerca de</string>
+    <string name="detail.message.bill">Total %shdhdhdhdhdhdhdhdhshshahs</string>
+    <string name="detail.message.test"> %Esta es una biografia del super heroe seleccionado</string>
+    <string name="global.message.tip">Propina %,.1f</string>
+</resources>
